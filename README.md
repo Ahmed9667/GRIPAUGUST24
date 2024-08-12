@@ -1,0 +1,1 @@
+This project is exploring global terrorism trends analyzing the Global Terrorism Dataset to extract patterns, identify top terrorist groups, examine attack types, and gain insights about different terrorist attack due to different regions
